@@ -5,8 +5,6 @@
  
  .NET is my favorite programming language
  
- I'm currently learning REACT NATIVE
- 
  I'm a huge soccer fan :soccer: COYG :bomb:
  
 
