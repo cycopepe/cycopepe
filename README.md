@@ -3,7 +3,7 @@
  
  I'm from Colombia :yellow_square::blue_square::red_square:
  
- .NET is my favorite programming language
+ C# is my favorite programming language
  
  I'm a huge soccer fan :soccer: COYG :bomb:
  
