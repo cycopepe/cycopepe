@@ -1,9 +1,7 @@
 ### Hello 👋
- I'm a software developer :nerd_face: with 9+ yrs of exp
+ I'm a software developer :nerd_face: 
  
  I'm from Colombia :yellow_square::blue_square::red_square:
- 
- C# is my favorite programming language
  
  I'm a huge soccer fan :soccer: COYG :bomb:
  
